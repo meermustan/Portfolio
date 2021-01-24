@@ -276,6 +276,7 @@ footer a{
     border: 1px solid rgb(27, 27, 27);width: 90%;margin: 25px auto 30px auto; 
 }
 .heading{
+    font-family: 'Coda Caption', sans-serif;
     font-size: 2.1rem;
     text-align: center;
 }
