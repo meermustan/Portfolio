@@ -3,9 +3,6 @@
     margin-top: 6px;
     font-size: 1.2rem;
 }
-#navbar ul{
-
-}
 #navbar ul li{
     margin: 14px 8px;
 }
@@ -34,7 +31,7 @@
 #card #text{
     padding: 0px 6%;
     border-top: 2px solid rgb(190, 186, 186);
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     margin:0;
     
 }
