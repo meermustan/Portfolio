@@ -1,0 +1,58 @@
+/* Navbar */
+
+/* ---------------------------------------------------------------------- */
+/* Home */
+#home #card{
+    width: 80%;
+    height: 50%;
+}
+#home #card img{
+   height: 300px;
+}
+/* -------------------------------------------------------------------------- */
+/* Projects */
+#projects{
+    width: 88%;
+}
+#projects img{
+    width: 250px;
+    height: 160px;
+    margin: 0;
+}
+#projects p{
+    font-size: 1.1rem;
+}
+#projects .project{
+    flex-direction: column;
+    margin: 0;
+    margin: 12px auto;
+}
+/* --------------------------------------------------------------------------- */
+/* About */
+#about{
+    font-size: 1.0rem;
+    flex-wrap: wrap;
+    height: 700px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+#about::before{
+    height: 700px;
+}
+#about .containers{
+    margin: 22px;
+    width: 220px;
+    height: 260px;
+}
+#container-3-content #gmail P{
+    width: 70px;
+}
+#about img{
+width:180px;
+height: 136px;
+}
+/* ---------------------------------------------------------------------------------------- */
+/* Footer */
+footer{
+    font-size: 1.1rem;
+}
