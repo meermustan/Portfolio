@@ -130,7 +130,7 @@ html{
 /* ---------------------------------------------------------------------- */
 /* About */
 #about{
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     height: 400px;
     display: flex;
     justify-content: center;
