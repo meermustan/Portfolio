@@ -72,7 +72,22 @@
     height: 250px;
 }
 #container-3-content #gmail P{
-    width: 70px;
+    width: 75px;
+}
+#container-3-content #gmail img {
+    border-radius: 6px;
+    height: 15px;
+    width: 19px;
+}
+#container-3-content #insta img {
+    border-radius: 10px;
+    height: 18px;
+    width: 22px;
+}
+#container-3-content #facebook img {
+    height: 16px;
+    width: 16px;
+    border-radius: 10px;
 }
 #about img{
 width:150px;
